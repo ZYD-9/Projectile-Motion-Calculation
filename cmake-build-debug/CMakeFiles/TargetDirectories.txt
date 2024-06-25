@@ -1,0 +1,3 @@
+C:/Users/gayar/CLionProjects/Projectile_Motion/cmake-build-debug/CMakeFiles/Projectile_Motion.dir
+C:/Users/gayar/CLionProjects/Projectile_Motion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gayar/CLionProjects/Projectile_Motion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
